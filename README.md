@@ -9,8 +9,8 @@
 - Lua
 - Rust
 ##   주요 저장소
-```JetOS```
-```jatTermainl```
+[jetOS](https://github.com/7109jun/jetOS)
+[jatTermianl](https://github.com/7109jun/jatTerminal)
 ### 기여자
 **하면 좋은데 안해도 혼자 합니다**
 ### 주로 하는것

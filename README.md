@@ -42,4 +42,3 @@ Go도 가끔씩 씁니다
 15. Assembly
 16. Go
 17. Typescipt
-18. 
